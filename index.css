@@ -1,0 +1,52 @@
+:root{
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    font-family: 'Nunito', sans-serif;
+}
+
+/* Container holding the image and the text */
+.container {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    font-family: 'Nunito', sans-serif;
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: small;
+  }
+.info{
+    text-align: left;
+    font-size: 24px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-family: 'Nunito', sans-serif;
+}
+
+table{
+    font-size: 14px;
+}
+a{
+    color: aquamarine;
+    opacity: 80%;
+}
+p,ul{
+    font-size: 18px;
+}
+
+h3{
+    background-color: rgb(208, 156, 34);
+    color: black;
+    text-align: center;
+    border-radius: 15px;
+    background-size:cover;
+}
